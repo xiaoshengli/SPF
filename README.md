@@ -33,4 +33,3 @@ The running time is: 1.860000seconds
 The code uses a char array buffer of size 1000000 to read each line of the input file, so if the time series to use is very long, the characters that each line the input file contains may surpass the limit. In this case the buffer limit (line 32 of SPF.cpp, MAX_PER_LINE) should be enlarged correspondingly.
 
 ## Citation
-
