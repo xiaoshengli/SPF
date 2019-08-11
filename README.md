@@ -1,6 +1,6 @@
 # Symbolic Pattern Forest (SPF)
 
-This repository contains the code accompanying the paper, "Linear Time Complexity Time Series Clustering with Symbolic Pattern Forest" (Xiaosheng Li, Jessica Lin and Liang Zhao, IJCAI 2019). This paper proposes a time series clustering algorithm that has linear time complexity.
+This repository contains the code accompanying the paper, "[Linear Time Complexity Time Series Clustering with Symbolic Pattern Forest](https://www.ijcai.org/proceedings/2019/0406.pdf)" (Xiaosheng Li, Jessica Lin and Liang Zhao, IJCAI 2019). This paper proposes a time series clustering algorithm that has linear time complexity.
 
 ## To Compile the Code
 
