@@ -33,3 +33,17 @@ The running time is: 1.860000seconds
 The code uses a char array buffer of size 1000000 to read each line of the input file, so if the time series to use is very long, the characters that each line the input file contains may surpass the limit. In this case the buffer limit (line 32 of SPF.cpp, MAX_PER_LINE) should be enlarged correspondingly.
 
 ## Citation
+```
+@inproceedings{ijcai2019-406,
+  title     = {Linear Time Complexity Time Series Clustering with Symbolic Pattern Forest},
+  author    = {Li, Xiaosheng and Lin, Jessica and Zhao, Liang},
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
+               Artificial Intelligence, {IJCAI-19}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
+  pages     = {2930--2936},
+  year      = {2019},
+  month     = {7},
+  doi       = {10.24963/ijcai.2019/406},
+  url       = {https://doi.org/10.24963/ijcai.2019/406},
+}
+```
